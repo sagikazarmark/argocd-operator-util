@@ -18,3 +18,5 @@ spec:
   image: ghcr.io/sagikazarmark/argocd-operator-util
   version: v0.2.1
 ```
+
+**Note:** The `argocd-operator-util` image is versioned with the ArgoCD Operator (not with ArgoCD itself).
