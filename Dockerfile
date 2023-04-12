@@ -1,4 +1,4 @@
-FROM quay.io/argoprojlabs/argocd-operator-util:v0.5.0
+FROM quay.io/argoprojlabs/argocd-operator-util:v0.6.0
 
 USER root
 
